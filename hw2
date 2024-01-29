@@ -66,10 +66,10 @@ class MyApp extends StatelessWidget {
                       'Categories',
                       style: TextStyle(
                         color: Color(0xFF1F2937),
-                        fontSize: 14,
+                        fontSize: 12,
                         fontFamily: 'Inter',
                         fontWeight: FontWeight.w600,
-                        height: 0.11,
+                        height: 0.12,
                         letterSpacing: 0.07,
                       ),
                     ),
